@@ -14,7 +14,9 @@ While, the following will not:
 export const B = 'B';
 ```
 
-You can see that in B.js
+You can see that in action in [B.js](https://github.com/markbrocato/webpack-tree-shaking-exports/blob/master/B.js#L3).
+
+If tree-shaking were working properly, [this line](https://github.com/markbrocato/webpack-tree-shaking-exports/blob/master/bundle.prod-formatted.js#L40) should not be in the output.
 
 # Running
 
