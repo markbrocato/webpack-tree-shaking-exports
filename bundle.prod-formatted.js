@@ -37,6 +37,7 @@
   },
   function(t, n, e) {
     "use strict";
+    x("B");
   },
   function(t, n, e) {
     "use strict";

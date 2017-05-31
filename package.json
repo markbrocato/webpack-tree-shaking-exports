@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "prettier": "^0.21.0",
-    "webpack": "^2.2.1"
+    "webpack": "^2.6.1"
   },
   "repository": "git@github.com:kentcdodds/webpack-tree-shaking-exports.git",
   "scripts": {
